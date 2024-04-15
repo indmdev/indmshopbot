@@ -11,14 +11,14 @@ Try it now: https://t.me/indmshopbot
 
 
 # Features In Seller's Account:
-Store Front Page:
+- Store Front Page:
 
-- ✅ Customized Welcome Message With Store Logo.
-- ✅ Shop Items Button - Leads you to the Products/Services posted by you (The Seller).
-- ✅ My Products Button - Leads you directly to a complete list of all your Products/Services posted by you (The Seller).
-- ✅ My Sales Box Button - Leads you directly to a complete list of all your sales (All orders made by your customers).
-- ✅ My Store Button - Leads you to your Store Management Center.
-- ✅ My Profile Button - Leads you to complete details about your user profile.
+      - ✅ Customized Welcome Message With Store Logo.
+      - ✅ Shop Items Button - Leads you to the Products/Services posted by you (The Seller).
+      - ✅ My Products Button - Leads you directly to a complete list of all your Products/Services posted by you (The Seller).
+      - ✅ My Sales Box Button - Leads you directly to a complete list of all your sales (All orders made by your customers).
+      - ✅ My Store Button - Leads you to your Store Management Center.
+      - ✅ My Profile Button - Leads you to complete details about your user profile.
 
 
 
