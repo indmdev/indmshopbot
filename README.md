@@ -12,6 +12,7 @@ Try it now: https://t.me/indmshopbot
 
 # Features In Seller's Account:
 Store Front Page:
+
 - ✅ Customized Welcome Message With Store Logo.
 - ✅ Shop Items Button - Leads you to the Products/Services posted by you (The Seller).
 - ✅ My Products Button - Leads you directly to a complete list of all your Products/Services posted by you (The Seller).
@@ -22,6 +23,7 @@ Store Front Page:
 
 
 Store Management - Under "My Store":
+
 - ✅ Create Product Button - Follow all the steps carefully to add a new product.
 - ✅ Check Subscription Button - To check your Store's subscription.
 - ✅ Deposit Button - To add funds to your store wallet.
@@ -33,25 +35,30 @@ Store Management - Under "My Store":
 
 
 Product Management - Under "My Products":
+
 - ✅ Select A Product - To Edit, Delete or Re-stock.
 - ✅ Edit Button - To start editing information about the selected product.
 - ✅ Delete Button - To start editing information about the selected product.
 
 
 Sales Management - Under "My Sales Box":
+
 - ✅ Select A Group Of Sales You Made - To  start managing your sales.
 - ✅ Confirm Payment Button - To confirm manual payment for the selected sales.
 - ✅ Re-Stock Button - To Re-Stock the product of the selected sales.
 - ✅ Chat Buyer Button - To Chat with the buyer of the selected sales.
 - ✅ Chat History Button - To see all the chats between you and the Buyer of the selected sales.
 - ✅ Update Status Button - To update order status for Physical Items only, order tracking purposes.
-- 
+  
 
 
 
 Order Management - Under "My Purchases":
+
 - ✅ Select An Order - To start managing your order.
+  
   For Completed Order:
+  
 - ✅ View Keys Button - To view the product's keys you purchased in the selected order (For Product Keys Items Only).
 - ✅ Download File Button - To Download the product's file(s) you purchased in the selected order (For Downloadable Products Only).
 - ✅ Re-Purchase Button - To re-purchase the product of the selected order.
@@ -59,7 +66,9 @@ Order Management - Under "My Purchases":
 - ✅ Chat Seller Button - To Chat with the seller of the selected order.
 - ✅ Add Review Button - To give a review on your selected order, Good or Bad will reflect on the product and the seller's store.
 
+
   For Incomplete Order:
+  
 - ✅ Check Payment Status Button - To check the payment status for the selected order.
 - ✅ Complete Purchase Button - To proceed with your order and make payment for the selected order.
 - ✅ Delete Button - To delete the selected order.
@@ -68,18 +77,21 @@ Order Management - Under "My Purchases":
 
 
 Profile Management - Under "My Profile":
+
 - ✅ Deposit Funds Button - To add funds to your wallet.
 - ✅ Edit Profile Button - To start editing any information about your user profile.
 
 
 
 Accepted Payment Methods:
+
 - ✅ Over 300 cryptocurrencies are accepted in the store.
 - ✅ PayPal.
 - ✅ Bank Cards.
 - ✅ Manual Payments.
 
 Instant Notifications:
+
 - ✅ Every New Successful Orders.
 - ✅ Customer Wallet Funded.
 - ✅ Product Quantity is below 5 Units.
@@ -90,9 +102,4 @@ Instant Notifications:
 
 
 
-  
-
-
-
-
-  
+  # Features In Buyer's Account:
