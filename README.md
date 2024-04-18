@@ -13,12 +13,14 @@ Try it now: https://t.me/indmshopbot
 # Features In Seller's Account:
 - 👍 Store Front Page:
 
-      - ✅ Customized Welcome Message With Store Logo.
-      - ✅ Shop Items Button - Leads you to the Products/Services posted by you (The Seller).
-      - ✅ My Products Button - Leads you directly to a complete list of all your Products/Services posted by you (The Seller).
-      - ✅ My Sales Box Button - Leads you directly to a complete list of all your sales (All orders made by your customers).
-      - ✅ My Store Button - Leads you to your Store Management Center.
-      - ✅ My Profile Button - Leads you to complete details about your user profile.
+      - ✅ Customizable Welcome Message With Store Logo.
+      - ✅ Shop Items Button - This will take you to the Products/Services posted by you (The Seller).
+      - ✅ My Products Button - This will take you directly to a complete list of all your Products/Services posted by you (The Seller).
+      - ✅ My Purchases Button - This will take you directly to a list of all your purchased Items posted in the Store.
+      - ✅ My Sales Box Button - This will take you directly to a complete list of all your sales (All orders made by your customers).
+      - ✅ My Store Button - This will take you to your Store Management Center.
+      - ✅ My Profile Button - This will take you to complete details about your user profile.
+      - ✅ Withdraw Button - To withdraw your sales funds from your store wallet.
 
 
 
@@ -41,6 +43,7 @@ Try it now: https://t.me/indmshopbot
       - ✅ Delete Button - To start editing information about the selected product.
 
 
+
 - 👍 Sales Management - Under "My Sales Box":
 
       - ✅ Select A Group Of Sales You Made - To  start managing your sales.
@@ -49,7 +52,6 @@ Try it now: https://t.me/indmshopbot
       - ✅ Chat Buyer Button - To Chat with the buyer of the selected sales.
       - ✅ Chat History Button - To see all the chats between you and the Buyer of the selected sales.
       - ✅ Update Status Button - To update order status for Physical Items only, order tracking purposes.
-        
 
 
 
@@ -58,12 +60,12 @@ Try it now: https://t.me/indmshopbot
   For Completed Order:
   
       - ✅ Select An Order - To start managing your order.
-      - ✅ View Keys Button - To view the product's keys you purchased in the selected order (For Product Keys Items Only).
+      - ✅ View Keys Button - View the product's keys you purchased in the selected order (For Product Keys Items Only).
       - ✅ Download File Button - To Download the product's file(s) you purchased in the selected order (For Downloadable Products Only).
       - ✅ Re-Purchase Button - To re-purchase the product of the selected order.
       - ✅ Chat History Button - To see all the chats between you and the Seller of the selected order.
-      - ✅ Chat Seller Button - To Chat with the seller of the selected order.
-      - ✅ Add Review Button - To give a review on your selected order, Good or Bad will reflect on the product and the seller's store.
+      - ✅ Chat Seller Button - Chat with the selected order's seller.
+      - ✅ Add Review Button - To review your selected order, Good or Bad will reflect on the product and the seller's store.
 
   For Incomplete Order:
   
@@ -73,11 +75,11 @@ Try it now: https://t.me/indmshopbot
 
 
 
-
 - 👍 Profile Management - Under "My Profile":
 
       - ✅ Deposit Funds Button - To add funds to your wallet.
       - ✅ Edit Profile Button - To start editing any information about your user profile.
+
 
 
 - 👍 Accepted Payment Methods:
@@ -87,9 +89,11 @@ Try it now: https://t.me/indmshopbot
       - ✅ Bank Cards.
       - ✅ Manual Payments.
 
+
+
 - 👍 Instant Notifications:
 
-      - ✅ Every New Successful Orders.
+      - ✅ Every New Order.
       - ✅ Customer Wallet Funded.
       - ✅ Product Quantity is below 5 Units.
       - ✅ New Chat From Customer.
@@ -99,4 +103,44 @@ Try it now: https://t.me/indmshopbot
 
 
 
+
   # Features In Buyer's Account:
+
+- 👍 Store Front Page:
+
+      - ✅ Store's Welcome Message.
+      - ✅ Shop Items Button - This will take you to all available Products/Services posted by The Store's Owner segmented in categories.
+      - ✅ My Purchases Button - This will take you directly to a list of all your purchased Items posted in the Store.
+      - ✅ My Profile Button - This will take you to complete details about your user profile.
+      - ✅ Get Support Button - This will take you to the seller's support handle(s).
+      - ✅ About Us Button - This will take you to the complete overview of the store's information and all the store's products list.
+
+
+
+- 👍 Order Management - Under "My Purchases":
+
+  For Completed Order:
+  
+      - ✅ Select An Order - To start managing your order.
+      - ✅ View Keys Button - View the product's keys you purchased in the selected order (For Product Keys Items Only).
+      - ✅ Download File Button - To Download the product's file(s) you purchased in the selected order (For Downloadable Products Only).
+      - ✅ Re-Purchase Button - To re-purchase the product of the selected order.
+      - ✅ Chat History Button - To see all the chats between you and the Seller of the selected order.
+      - ✅ Chat Seller Button - Chat with the selected order's seller.
+      - ✅ Add Review Button - To review your selected order, Good or Bad will reflect on the product and the seller's store.
+
+  For Incomplete Order:
+  
+      - ✅ Check Payment Status Button - To check the payment status for the selected order.
+      - ✅ Complete Purchase Button - To proceed with your order and make payment for the selected order.
+      - ✅ Delete Button - To delete the selected order.
+
+
+
+- 👍 Profile Management - Under "My Profile":
+
+      - ✅ Deposit Funds Button - To add funds to your wallet.
+      - ✅ Edit Profile Button - To start editing any information about your user profile.
+      - ✅ Get Support Button - This will take you to the seller's support handle(s).
+
+Join our channel for more Bots like this: https://t.me/InDMDevBots
