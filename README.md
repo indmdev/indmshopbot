@@ -9,6 +9,9 @@ The Bot came with many Features to seamlessly increase your sales and your custo
 
 Try it now: https://t.me/indmshopbot
 
+# ~Listed below are few from the features of the Bot~
+
+
 
 # Features In Seller's Account:
 - 👍 Store Front Page:
