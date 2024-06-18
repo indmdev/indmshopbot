@@ -43,6 +43,7 @@ Try it now: https://t.me/indmshopbot
 
 - 👍 Product Management - Under "My Products":
 
+      - ✅ Products List - List of all your posted products.
       - ✅ Select A Product - To Edit, Delete or Re-stock.
       - ✅ Edit Button - To start editing information about the selected product.
       - ✅ Delete Button - To start editing information about the selected product.
@@ -51,6 +52,7 @@ Try it now: https://t.me/indmshopbot
 
 - 👍 Sales Management - Under "My Sales Box":
 
+      - ✅ Sales List - List of all your Sales.
       - ✅ Select A Group Of Sales You Made - To  start managing your sales.
       - ✅ Confirm Payment Button - To confirm manual payment for the selected sales.
       - ✅ Re-Stock Button - To Re-Stock the product of the selected sales.
@@ -63,7 +65,8 @@ Try it now: https://t.me/indmshopbot
 - 👍 Order Management - Under "My Purchases":
 
   For Completed Order:
-  
+
+      - ✅ Orders List - List of all your orders.
       - ✅ Select An Order - To start managing your order.
       - ✅ View Keys Button - View the product's keys you purchased in the selected order (For Product Keys Items Only).
       - ✅ Download File Button - To Download the product's file(s) you purchased in the selected order (For Downloadable Products Only).
@@ -126,7 +129,8 @@ Try it now: https://t.me/indmshopbot
 - 👍 Order Management - Under "My Purchases":
 
   For Completed Order:
-  
+
+      - ✅ Orders List - List of all your orders.
       - ✅ Select An Order - To start managing your order.
       - ✅ View Keys Button - View the product's keys you purchased in the selected order (For Product Keys Items Only).
       - ✅ Download File Button - To Download the product's file(s) you purchased in the selected order (For Downloadable Products Only).
