@@ -10,7 +10,7 @@ The Bot came with many Features to seamlessly increase your sales and your custo
 
 Try it now: https://t.me/indmshopbot
 
-# Listed below are few from the features of the Bot 👇
+# Listed below are a few of the features of the Bot 👇
 
 
 
@@ -19,23 +19,24 @@ Try it now: https://t.me/indmshopbot
 
       - ✅ Customizable Welcome Message With Store Logo.
       - ✅ Shop Items Button - This will take you to the Products/Services posted by you (The Seller).
-      - ✅ My Products Button - This will take you directly to a complete list of all your Products/Services posted by you (The Seller).
       - ✅ My Purchases Button - This will take you directly to a list of all your purchased Items posted in the Store.
-      - ✅ My Sales Box Button - This will take you directly to a complete list of all your sales (All orders made by your customers).
       - ✅ My Store Button - This will take you to your Store Management Center.
       - ✅ My Profile Button - This will take you to complete details about your user profile.
-      - ✅ Withdraw Button - To withdraw your sales funds from your store wallet.
+      - ✅ Get Support Button - To contact us for any support regarding your Store.
 
 
 
 - 👍 Store Management - Under "My Store":
 
-      - ✅ Create Product Button - Follow all the steps carefully to add a new product.
+      - ✅ Create Product Button - Follow all the steps to add a new product.
       - ✅ Check Subscription Button - To check your Store's subscription.
+      - ✅ My Products Button - This will take you directly to a complete list of all your Products/Services posted by you (The Seller).
+      - ✅ My Sales Box Button - This will take you directly to a complete list of all your sales (All orders made by your customers).
       - ✅ Deposit Button - To add funds to your store wallet.
-      - ✅ Edit Store Button - To edit information about your store.
       - ✅ Withdraw Button - To withdraw your sales funds from your store wallet.
-      - ✅ Get Support Button - To contact us for any support regarding your Store.
+      - ✅ Send News - To make the bot send the latest update/news to all users in your store.
+      - ✅ Message User - To make the bot send a message to a user.
+      - ✅ Edit Store Button - To edit information about your store.
       - ✅ Home Button - To return to the front page and learn some unwanted messages.
 
 
@@ -53,7 +54,7 @@ Try it now: https://t.me/indmshopbot
       - ✅ Select A Group Of Sales You Made - To  start managing your sales.
       - ✅ Confirm Payment Button - To confirm manual payment for the selected sales.
       - ✅ Re-Stock Button - To Re-Stock the product of the selected sales.
-      - ✅ Chat Buyer Button - To Chat with the buyer of the selected sales.
+      - ✅ Chat Buyer Button - Chat with the selected sales buyer.
       - ✅ Chat History Button - To see all the chats between you and the Buyer of the selected sales.
       - ✅ Update Status Button - To update order status for Physical Items only, order tracking purposes.
 
@@ -97,13 +98,14 @@ Try it now: https://t.me/indmshopbot
 
 - 👍 Instant Notifications:
 
-      - ✅ Every New Order.
-      - ✅ Customer Wallet Funded.
-      - ✅ Product Quantity is below 5 Units.
-      - ✅ New Chat From Customer.
-      - ✅ Order Status Changed.
-      - ✅ Successfully Added Funds.
-      - ✅ Successfully Withdrawn Funds.
+      - ✅ Every New Product created - All users in the store will receive a notification.
+      - ✅ Every New Order - Seller and Buyer will receive a notification.
+      - ✅ Customer Wallet Funded - Seller and Buyer will receive a notification.
+      - ✅ Product Quantity is below 5 Units - Seller will receive a notification.
+      - ✅ New Chat From Customer - Seller will receive a notification.
+      - ✅ Order Status Changed - Seller and Buyer will receive a notification.
+      - ✅ Successfully Added Funds  - Seller will receive a notification.
+      - ✅ Successfully Withdrawn Funds - Seller and Buyer will receive a notification.
 
 
 
