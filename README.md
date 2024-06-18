@@ -23,7 +23,34 @@ https://t.me/indmshopbot
 
 
 
+  # Features:
+
+- 👍 Payment Methods:
+
+      - ✅ Users Store Wallet.
+      - ✅ Over 300 cryptocurrencies are accepted in the store.
+      - ✅ PayPal.
+      - ✅ Bank Cards.
+      - ✅ Manual Payments.
+
+
+
+- 👍 Instant Notifications:
+
+      - ✅ Every New Product created - All users in the store will receive a notification.
+      - ✅ Every New Order - Seller and Buyer will receive a notification.
+      - ✅ Customer Wallet Funded - Seller and Buyer will receive a notification.
+      - ✅ Product Quantity is below 5 Units - Seller will receive a notification.
+      - ✅ New Chat From Customer - Seller will receive a notification.
+      - ✅ Order Status Changed - Seller and Buyer will receive a notification.
+      - ✅ Successfully Added Funds  - Seller will receive a notification.
+      - ✅ Successfully Withdrawn Funds - Seller and Buyer will receive a notification.
+
+
+
+
 # Features In Seller's Account:
+
 - 👍 Store Front Page:
 
       - ✅ Customizable Welcome Message With Store Logo.
@@ -99,29 +126,6 @@ https://t.me/indmshopbot
 
 
 
-- 👍 Accepted Payment Methods:
-
-      - ✅ Over 300 cryptocurrencies are accepted in the store.
-      - ✅ PayPal.
-      - ✅ Bank Cards.
-      - ✅ Manual Payments.
-
-
-
-- 👍 Instant Notifications:
-
-      - ✅ Every New Product created - All users in the store will receive a notification.
-      - ✅ Every New Order - Seller and Buyer will receive a notification.
-      - ✅ Customer Wallet Funded - Seller and Buyer will receive a notification.
-      - ✅ Product Quantity is below 5 Units - Seller will receive a notification.
-      - ✅ New Chat From Customer - Seller will receive a notification.
-      - ✅ Order Status Changed - Seller and Buyer will receive a notification.
-      - ✅ Successfully Added Funds  - Seller will receive a notification.
-      - ✅ Successfully Withdrawn Funds - Seller and Buyer will receive a notification.
-
-
-
-
   # Features In Buyer's Account:
 
 - 👍 Store Front Page:
@@ -162,4 +166,5 @@ https://t.me/indmshopbot
       - ✅ Edit Profile Button - To start editing any information about your user profile.
       - ✅ Get Support Button - This will take you to the seller's support handle(s).
 
+      
 Join our channel for more Bots like this: https://t.me/InDMDevBots
