@@ -4,8 +4,7 @@ The best Telegram shopping Bot in the market.
 The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust.
 
 
-![Welcome Page For Sellers](https://i.ibb.co/J3rDQhg/photo-2024-04-12-08-25-18.jpg).
-
+![Welcome Page For Sellers](https://i.ibb.co/KXZ5KVB/Screenshot-2024-06-18-at-11-07-44.jpg)(https://i.ibb.co/KXZ5KVB/Screenshot-2024-06-18-at-11-07-44.jpg).
 
 
 Try it now: https://t.me/indmshopbot
