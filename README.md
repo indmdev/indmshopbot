@@ -136,6 +136,7 @@ https://t.me/indmshopbot
       - ✅ My Profile Button - This will take you to complete details about your user profile.
       - ✅ Get Support Button - This will take you to the seller's support handle(s).
       - ✅ About Us Button - This will take you to the complete overview of the store's information and all the store's products list.
+      - ✅ Deposit Funds Button - To add funds to your wallet.
 
 
 
