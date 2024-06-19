@@ -6,10 +6,6 @@ The Bot came with many Features to seamlessly increase your sales and your custo
 # SELLER'S FRONT PAGE:
 ![Welcome Page For Sellers](https://i.ibb.co/KXZ5KVB/Screenshot-2024-06-18-at-11-07-44.jpg).
 
-# SELLER'S "MY STORE" PAGE:
-![Welcome Page For Sellers](https://i.ibb.co/YtkzMkP/Screenshot-2024-06-18-at-11-11-04.jpg).
-
-
 
 # BUYER'S FRONT PAGE:
 ![Welcome Page For Buyers](https://i.ibb.co/hV4PZwF/Screenshot-2024-06-19-at-10-34-34.jpg).
