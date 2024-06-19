@@ -1,7 +1,7 @@
 # InDMShopBot
 
 The best Telegram shopping Bot in the market.
-The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust.
+The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust. 
 
 # SELLER'S FRONT PAGE:
 ![Welcome Page For Sellers](https://i.ibb.co/KXZ5KVB/Screenshot-2024-06-18-at-11-07-44.jpg).
