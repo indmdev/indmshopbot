@@ -12,7 +12,7 @@ The Bot came with many Features to seamlessly increase your sales and your custo
 
 
 # BUYER'S FRONT PAGE:
-![Welcome Page For Buyers](https://i.ibb.co/dfqXKG3/IMG-789-C6-AF9-A71-A-1.jpg).
+![Welcome Page For Buyers](https://i.ibb.co/hV4PZwF/Screenshot-2024-06-19-at-10-34-34.jpg).
 
 
 
