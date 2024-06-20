@@ -68,7 +68,7 @@ https://t.me/indmshopbot
       - ✅ Withdraw Button - To withdraw your sales funds from your store wallet.
       - ✅ Send News - To make the bot send the latest update/news to all users in your store.
       - ✅ Message User - To make the bot send a message to a user.
-      - ✅ Edit Store Button - To edit information about your store.
+      - ✅ Store Settings Button - To edit information about your store.
       - ✅ Home Button - To return to the front page and learn some unwanted messages.
 
 
