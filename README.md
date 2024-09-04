@@ -4,7 +4,7 @@ The best Telegram shopping Bot in the market.
 The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust. 
 
 # SELLER'S FRONT PAGE:
-![Welcome Page For Sellers]([https://i.ibb.co/3TbWQHy/photo-2024-09-04-18-14-31.jpg](https://github-production-user-asset-6210df.s3.amazonaws.com/147909393/364479747-cbbb341f-d8e9-4f27-8112-4c86e2b37b9b.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240904T172358Z&X-Amz-Expires=300&X-Amz-Signature=c225aafb7d953f1f1170ced0a5a7df4150a85d0bdffa75a5bac0c1e4082a7901&X-Amz-SignedHeaders=host&actor_id=147909393&key_id=0&repo_id=785600886)).
+![Welcome Page For Sellers](https://github-production-user-asset-6210df.s3.amazonaws.com/147909393/364479747-cbbb341f-d8e9-4f27-8112-4c86e2b37b9b.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240904T172358Z&X-Amz-Expires=300&X-Amz-Signature=c225aafb7d953f1f1170ced0a5a7df4150a85d0bdffa75a5bac0c1e4082a7901&X-Amz-SignedHeaders=host&actor_id=147909393&key_id=0&repo_id=785600886).
 
 
 # BUYER'S FRONT PAGE:
