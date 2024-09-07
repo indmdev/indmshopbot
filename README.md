@@ -27,7 +27,10 @@ https://t.me/indmshopbot
       - ✅ Over 300 cryptocurrencies are accepted in the store.
       - ✅ PayPal.
       - ✅ Bank Cards.
-      - ✅ Manual Payments.
+      - ✅ Customised Payment Methods (Any Payment Method).
+      - ✅ Manual Payments for Any currency (Physical Items).
+      - ✅ Choose your preferred Store Currency (Any currency).
+
 
 
 
@@ -84,7 +87,7 @@ https://t.me/indmshopbot
 
 - 👍 Sales Management - Under "My Sales Box":
 
-      - ✅ Sales List - List of all your Sales.
+      - ✅ Sales-List - List of all your Sales.
       - ✅ Select A Group Of Sales You Made - To  start managing your sales.
       - ✅ Confirm Payment Button - To confirm manual payment for the selected sales.
       - ✅ Re-Stock Button - To Re-Stock the product of the selected sales.
@@ -105,7 +108,7 @@ https://t.me/indmshopbot
       - ✅ Re-Purchase Button - To re-purchase the product of the selected order.
       - ✅ Chat History Button - To see all the chats between you and the Seller of the selected order.
       - ✅ Chat Seller Button - Chat with the selected order's seller.
-      - ✅ Add Review Button - To review your selected order, Good or Bad will reflect on the product and the seller's store.
+      - ✅ Add Review Button - Good or Bad will reflect on the product and the seller's store to review your selected order.
 
   For Incomplete Order:
   
