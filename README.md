@@ -4,11 +4,10 @@ The best Telegram shopping Bot in the market.
 The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust. 
 
 # SELLER'S FRONT PAGE:
+![MY STORE Page For Sellers](https://github.com/user-attachments/assets/37b9d3e0-96be-46cd-8da3-3afaf982d09a)
 
-  ![Welcome Page For Sellers](https://private-user-images.githubusercontent.com/147909393/365910681-65313e09-c92f-4ade-bf6c-3f6b7982cf45.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5NTEzMzYsIm5iZiI6MTcyNTk1MTAzNiwicGF0aCI6Ii8xNDc5MDkzOTMvMzY1OTEwNjgxLTY1MzEzZTA5LWM5MmYtNGFkZS1iZjZjLTNmNmI3OTgyY2Y0NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMFQwNjUwMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZDhlZTg2MDRiNTM1OWE2MWUxMGM1MGI5YjQ1N2MxYzM5ODFkMmZjNThkNjllZTViOTczYjlkYmQyOWU4MDRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.jLB50NhutWNmLWmvVUWzWBraYLtP0GrytB97e5E7BxM)
 
 # BUYER'S FRONT PAGE:
-
 ![photo_2024-09-10 08 08 57](https://github.com/user-attachments/assets/09f527ea-afa8-403a-ade4-f9abceeda057)
 
 
