@@ -4,11 +4,7 @@ The best Telegram shopping Bot in the market.
 The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust. 
 
 # SELLER'S FRONT PAGE:
-![Welcome Page For Sellers](https://user-images.githubusercontent.com.com/98e4754a-6e27-4461-a953-21dc2964d5a5.png)
-![photo_2024-09-04 18 14 31](https://i.ibb.co/74f25Lg/IMG-6-E4-E542201-F2-1.jpg)
-<img src='[https://github.com/samadpls](https://i.ibb.co/74f25Lg/IMG-6-E4-E542201-F2-1.jpg)'/>
-[https://github.com/user-attachments/assets/98e4754a-6e27-4461-a953-21dc2964d5a5
-](https://github-production-user-asset-6210df.s3.amazonaws.com/147909393/365918783-98e4754a-6e27-4461-a953-21dc2964d5a5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240910T062646Z&X-Amz-Expires=300&X-Amz-Signature=768e615e139af7c3632403f7e776d9ea7de25e4a47289a1b17801de8fb4adf03&X-Amz-SignedHeaders=host&actor_id=147909393&key_id=0&repo_id=785600886)
+![Welcome Page For Sellers](https://user-images.githubusercontent.com.com/147909393/98e4754a-6e27-4461-a953-21dc2964d5a5.png)
 
 # BUYER'S FRONT PAGE:
 ![Welcome Page For Buyers](https://i.ibb.co/74f25Lg/IMG-6-E4-E542201-F2-1.jpg)
