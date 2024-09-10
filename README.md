@@ -4,7 +4,7 @@ The best Telegram shopping Bot in the market.
 The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust. 
 
 # SELLER'S FRONT PAGE:
-![Welcome Page For Sellers](https://user-images.githubusercontent.com.com/147909393/365907180-d2075d65-a2c4-44e0-95d1-b70d25acfb01.jpeg)
+![Welcome Page For Sellers](https://user-images.githubusercontent.com.com/147909393/365907180-d2075d65-a2c4-44e0-95d1-b70d25acfb01.png)
 
 
 # BUYER'S FRONT PAGE:
