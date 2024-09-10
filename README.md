@@ -5,6 +5,7 @@ The Bot came with many Features to seamlessly increase your sales and your custo
 
 # SELLER'S FRONT PAGE:
 ![Welcome Page For Sellers](https://user-images.githubusercontent.com.com/147909393/365907180-d2075d65-a2c4-44e0-95d1-b70d25acfb01.png)
+![photo_2024-09-04 18 14 31](https://github.com/user-attachments/assets/e29faaf0-4eea-45ad-af2c-0300803380e8)
 
 
 # BUYER'S FRONT PAGE:
