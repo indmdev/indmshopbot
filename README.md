@@ -44,6 +44,8 @@ https://t.me/indmshopbot
       - ✅ Order Status Changed - Seller and Buyer will receive a notification.
       - ✅ Successfully Added Funds  - Seller will receive a notification.
       - ✅ Successfully Withdrawn Funds - Seller and Buyer will receive a notification.
+      - ✅ Successfully Credited Funds to User Wallet by Seller - Seller and User will receive a notification.
+      - ✅ Successfully Debited Funds from User Wallet by Seller - Seller and User will receive a notification.
 
 
 
@@ -67,8 +69,7 @@ https://t.me/indmshopbot
       - ✅ Check Subscription Button - To check your Store's subscription.
       - ✅ My Products Button - This will take you directly to a complete list of all your Products/Services posted by you (The Seller).
       - ✅ My Sales Box Button - This will take you directly to a complete list of all your sales (All orders made by your customers).
-      - ✅ Deposit Button - To add funds to your store wallet.
-      - ✅ Withdraw Button - To withdraw your sales funds from your store wallet.
+      - ✅ Manage Wallets - To Manually Credit or Debit users' wallets, individually or collectively. Deposit or withdraw your sales funds.
       - ✅ Send News - To make the bot send the latest update/news to all users in your store.
       - ✅ Message User - To make the bot send a message to a user.
       - ✅ Store Settings Button - To edit information about your store.
