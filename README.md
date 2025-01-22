@@ -1,7 +1,7 @@
 # InDMShopBot
 
 The best Telegram shopping Bot in the market.
-The Bot came with many Features to seamlessly increase your sales and your customer's satisfaction and trust. 
+The bot has many features to increase your sales and customers' satisfaction and trust seamlessly. 
 
 # SELLER'S STORE CONTROL PANEL:
 ![MY STORE Page For Sellers](https://github.com/user-attachments/assets/37b9d3e0-96be-46cd-8da3-3afaf982d09a)
@@ -169,3 +169,7 @@ https://t.me/indmshopbot
 
       
 Join our channel for more Bots like this: https://t.me/InDMDevBots
+
+
+# Version 6 coming soon 👇:
+![photo_2024-09-10 08 21 53](https://github.com/user-attachments/assets/6cd95e51-44fe-4a92-b774-c7623a5e5297)
