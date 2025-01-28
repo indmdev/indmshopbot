@@ -12,8 +12,9 @@ The bot has many features to increase your sales and customers' satisfaction and
 
 
 
-# TRY THE BOT NOW:
-https://t.me/indmshopbot
+# TRY THE BOT NOW: [@indmshopbot](https://t.me/indmshopbot) OR [DEMO](https://t.me/InDMMarketbot)
+
+Demo: https://t.me/InDMMarketbot
 
 # Listed below are a few of the features of the Bot 👇
 
