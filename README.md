@@ -152,7 +152,7 @@ Demo: https://t.me/InDMMarketbot
       - ✅ Re-Purchase Button - To re-purchase the product of the selected order.
       - ✅ Chat History Button - To see all the chats between you and the Seller of the selected order.
       - ✅ Chat Seller Button - Chat with the selected order's seller.
-      - ✅ Add Review Button - To review your selected order, Good or Bad will reflect on the product and the seller's store.
+      - ✅ Add Review Button - Good or Bad will reflect on the product and the seller's store to review your selected order.
 
   For Incomplete Order:
   
@@ -169,7 +169,7 @@ Demo: https://t.me/InDMMarketbot
       - ✅ Get Support Button - This will take you to the seller's support handle(s).
 
       
-Join our channel for more Bots like this: https://t.me/InDMDevBots
+Join our channel for more Bots like this: [@InDMDevBots](https://t.me/InDMDevBots)
 
 
 # Version 6 coming soon 👇:
