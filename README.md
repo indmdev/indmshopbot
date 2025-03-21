@@ -167,6 +167,7 @@ The bot has many features to increase your sales and customers' satisfaction and
       - ✅ Edit Profile Button - To start editing any information about your user profile.
       - ✅ Get Support Button - This will take you to the seller's support handle(s).
 
+And more
       
 Join our channel for more Bots like this: [@InDMDevBots](https://t.me/InDMDevBots)
 
